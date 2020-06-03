@@ -1,0 +1,111 @@
+
+body{font-family: 'Source Sans Pro' !important;overflow-x: hidden;}
+   .btn btn-primary {background-color: #43425D !important;
+    color: white;
+    height: 40px;
+    width: 50% !important;
+    border: none !important;
+    margin-bottom: 10px;}
+.log {
+    background: url(../img/log.jpg) no-repeat;
+    background-size: cover;
+    padding: 400px 0;
+    background-position: center;
+}
+.heading-title {
+  
+    font-size: 42px;
+    color: #000;
+   font-family: 'Source Sans Pro';
+}
+.heading-title span {
+    color: #f4a024;
+}
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.box-body {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding: 10px;
+}
+.profile-user-img {
+    margin: 0 auto;
+    width: 100px;
+    padding: 3px;
+    border: 3px solid #d2d6de;
+}
+.img-circle {
+    border-radius: 50%;
+}
+.profile-username {
+    font-size: 21px;
+    margin-top: 5px;
+	font-weight:bold;
+}
+.text-muted {
+    color: #777;
+}
+.list-group {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+.list-group-unbordered>.list-group-item {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border:none;
+}
+.share{margin-top:20px;}
+.social-icons li {
+    display: inline-block;
+    margin: 0 6px;
+}
+.social-icons i {
+    color: #2C2C2C;
+    margin-right: 25px;
+    font-size: 30px;
+}
+#fb{color:#4967A9;}
+#google{color:#DD554A;}
+#linkdin{color:#0076B4;}
+.sig{text-align:Center;}
+.btn-primary {
+    {background-color: #43425D !important;
+    color: white;
+    height: 40px;
+    width: 50% !important;
+    border: none !important;
+    margin-bottom: 10px;}
+
+
+
+.login-error{
+    margin-top: 15px;
+    font-weight: 600;
+    color: #e65c5c;
+}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #43425D !important;
+}
+.social-icons{text-align:center;}
+  #lgb{margin-top"10% !important;}
+
+
+
+

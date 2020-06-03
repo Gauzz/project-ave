@@ -1,0 +1,367 @@
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 3
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  include(conn.php): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 3
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  include(): Failed opening 'conn.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 3
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 5
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 6
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 7
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 8
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 9
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 10
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 11
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 12
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 13
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 14
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 15
+[20-Aug-2018 10:24:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 16
+[20-Aug-2018 10:24:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function tokenInt() in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 17
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(uploads/PRO338871_214807.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG3BirO' to 'uploads/PRO338871_214807.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(uploads/PRO338871_873745.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnstcVo' to 'uploads/PRO338871_873745.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(uploads/PRO338871_465742.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 10:27:03 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkws8oZ' to 'uploads/PRO338871_465742.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 11:51:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO491017_563547.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 11:51:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php2bYt35' to 'uploads/PRO491017_563547.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 12:24:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:24:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:24:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:25:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:25:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:25:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:25:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:27:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:27:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:27:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:27:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:28:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:28:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:28:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:28:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:29:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:30:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:30:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:30:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:32:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:32:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:32:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:35:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:35:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:37:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:37:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:37:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:38:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:40:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:43:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:44:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:45:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:46:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:47:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:47:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:51:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:53:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:55:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:55:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:55:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:57:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:58:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:58:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:58:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 12:58:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:02:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:04:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:04:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:05:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:05:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:09:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:10:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:11:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 22
+[20-Aug-2018 13:14:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:14:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:14:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:14:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:14:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:15:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:16:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 28
+[20-Aug-2018 13:16:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 28
+[20-Aug-2018 13:17:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:17:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:17:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:17:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:17:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:17:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 26
+[20-Aug-2018 13:20:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 27
+[20-Aug-2018 13:20:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 27
+[20-Aug-2018 13:20:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 27
+[20-Aug-2018 13:20:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/product_stock_outstock.php on line 27
+[20-Aug-2018 14:14:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 39
+[20-Aug-2018 14:14:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 39
+[20-Aug-2018 14:16:47 UTC] PHP Warning:  move_uploaded_file(uploads/PRO456936_686693.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:16:47 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwhQiLq' to 'uploads/PRO456936_686693.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:39:29 UTC] PHP Warning:  move_uploaded_file(uploads/PRO284247_744853.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:39:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpk6oq0b' to 'uploads/PRO284247_744853.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:39:29 UTC] PHP Warning:  move_uploaded_file(uploads/PRO284247_201241.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:39:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvPI9OH' to 'uploads/PRO284247_201241.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:41:55 UTC] PHP Warning:  move_uploaded_file(uploads/PRO827564_003399.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:41:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBtTsts' to 'uploads/PRO827564_003399.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:41:55 UTC] PHP Warning:  move_uploaded_file(uploads/PRO827564_787701.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:41:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppoelSp' to 'uploads/PRO827564_787701.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO371022_930786.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpncQ7I3' to 'uploads/PRO371022_930786.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO371022_799989.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcvhRjU' to 'uploads/PRO371022_799989.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO371022_005339.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRhX30K' to 'uploads/PRO371022_005339.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO371022_915475.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpR7eJRB' to 'uploads/PRO371022_915475.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(uploads/PRO371022_960409.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 14:52:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZhFMXs' to 'uploads/PRO371022_960409.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 15:03:29 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 8
+[20-Aug-2018 15:03:39 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 8
+[20-Aug-2018 15:03:54 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 8
+[20-Aug-2018 15:23:22 UTC] PHP Warning:  move_uploaded_file(uploads/PRO679066_350190.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 15:23:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpijRmK6' to 'uploads/PRO679066_350190.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 15:23:22 UTC] PHP Warning:  move_uploaded_file(uploads/PRO679066_462711.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 15:23:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0JZrrh' to 'uploads/PRO679066_462711.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[20-Aug-2018 16:08:03 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:08:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:08:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:04 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:06 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:06 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:06 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:09:06 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:07 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:07 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:07 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:07 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:08 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:08 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:08 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:10 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:10 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:10:10 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:05 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:06 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:08 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:09 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:11:14 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:12:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:12:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[20-Aug-2018 16:12:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 05:54:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 05:55:18 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 05:57:29 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 06:03:50 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 06:04:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 06:04:49 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 06:05:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 94
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(uploads/PRO885693_886112.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0uXeVE' to 'uploads/PRO885693_886112.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(uploads/PRO885693_278067.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdS9jK8' to 'uploads/PRO885693_278067.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(uploads/PRO885693_052275.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:14:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQciqCC' to 'uploads/PRO885693_052275.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:18:21 UTC] PHP Warning:  move_uploaded_file(uploads/PRO970191_867806.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:18:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVa46if' to 'uploads/PRO970191_867806.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:18:21 UTC] PHP Warning:  move_uploaded_file(uploads/PRO970191_608215.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:18:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpln9GuY' to 'uploads/PRO970191_608215.jpg' in /home/makerites/public_html/ecom/admin/ajax/add-product-ajax.php on line 24
+[21-Aug-2018 06:28:23 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:24 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:24 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:45 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:46 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:47 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:48 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 06:28:48 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 07:54:16 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 101
+[21-Aug-2018 07:56:21 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 101
+[21-Aug-2018 07:57:07 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 101
+[21-Aug-2018 07:58:32 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 101
+[21-Aug-2018 07:59:58 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 84
+[21-Aug-2018 08:05:12 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 8
+[21-Aug-2018 08:15:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 106
+[21-Aug-2018 08:17:31 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 08:17:32 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 08:17:32 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 08:17:32 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 08:20:34 UTC] PHP Parse error:  syntax error, unexpected 'uploads' (T_STRING) in /home/makerites/public_html/ecom/admin/ajax/select_customer.php on line 19
+[21-Aug-2018 11:56:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 37
+[21-Aug-2018 11:56:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/makerites/public_html/ecom/admin/ajax/invoice_form.php on line 38
+[22-Aug-2018 12:23:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 21
+[22-Aug-2018 12:23:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 21
+[22-Aug-2018 12:23:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 21
+[22-Aug-2018 12:23:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 21
+[22-Aug-2018 12:24:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 21
+[24-Aug-2018 13:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 21
+[24-Aug-2018 13:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 21
+[24-Aug-2018 14:38:44 UTC] PHP Warning:  move_uploaded_file(uploads/Koala.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:38:44 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFVJ1PM' to 'uploads/Koala.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:38:51 UTC] PHP Warning:  move_uploaded_file(uploads/Koala.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:38:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpynRgwP' to 'uploads/Koala.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:39:09 UTC] PHP Warning:  move_uploaded_file(uploads/Koala.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:39:09 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAWfMtI' to 'uploads/Koala.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:43:55 UTC] PHP Warning:  move_uploaded_file(uploads/Koala.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:43:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTO3cPz' to 'uploads/Koala.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:48:13 UTC] PHP Warning:  move_uploaded_file(uploads/Jellyfish.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:48:13 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8gLpPL' to 'uploads/Jellyfish.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:49:38 UTC] PHP Warning:  move_uploaded_file(uploads/Desert.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 14:49:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZu9KF7' to 'uploads/Desert.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 17
+[24-Aug-2018 15:16:33 UTC] PHP Warning:  move_uploaded_file(uploads/23616Hydrangeas.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 18
+[24-Aug-2018 15:16:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZFCIic' to 'uploads/23616Hydrangeas.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 18
+[24-Aug-2018 15:17:56 UTC] PHP Warning:  move_uploaded_file(uploads/55268Jellyfish.jpg): failed to open stream: No such file or directory in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 18
+[24-Aug-2018 15:17:56 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpI6mDRw' to 'uploads/55268Jellyfish.jpg' in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 18
+[27-Aug-2018 12:10:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:10:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:11:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:12:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 24
+[27-Aug-2018 12:12:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 24
+[27-Aug-2018 12:12:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 24
+[27-Aug-2018 12:12:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 24
+[27-Aug-2018 12:32:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:32:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:32:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:34:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:34:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:35:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:35:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:38:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:38:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:38:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 29
+[27-Aug-2018 12:40:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:40:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:41:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 28
+[27-Aug-2018 12:46:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:47:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:47:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:49:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[27-Aug-2018 12:51:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/ecom/admin/ajax/delete_image.php on line 23
+[28-Aug-2018 06:46:05 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/makerites/public_html/ecom/admin/ajax/updt_img.php on line 7
+[28-Aug-2018 06:49:22 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/makerites/public_html/ecom/admin/ajax/updt_img.php on line 7
+[28-Aug-2018 06:51:42 UTC] PHP Warning:  Illegal string offset 'tmp_name' in /home/makerites/public_html/ecom/admin/ajax/updt_img.php on line 7
+[31-Aug-2018 06:16:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/ecom/admin/ajax/customer_ajax.php on line 20
+[31-Aug-2018 12:34:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 17
+[01-Sep-2018 11:53:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/ecom/admin/ajax/get_sub_cat.php on line 50
+[04-Sep-2018 13:44:51 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/makerites/public_html/ecom/admin/ajax/_sub-category.php on line 12
+[05-Sep-2018 11:40:20 UTC] PHP Warning:  mysqli_fetch_array() expects at least 1 parameter, 0 given in /home/makerites/public_html/ecom/admin/ajax/delete-product.php on line 7

@@ -1,0 +1,33 @@
+[09-May-2018 19:48:46 UTC] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:48:46 UTC] PHP Stack trace:
+[09-May-2018 19:48:46 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:48:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:48:46 UTC] PHP Stack trace:
+[09-May-2018 19:48:46 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:50:54 UTC] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:50:54 UTC] PHP Stack trace:
+[09-May-2018 19:50:54 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:50:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:50:54 UTC] PHP Stack trace:
+[09-May-2018 19:50:54 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:50:56 UTC] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:50:56 UTC] PHP Stack trace:
+[09-May-2018 19:50:56 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 3
+[09-May-2018 19:50:56 UTC] PHP Stack trace:
+[09-May-2018 19:50:56 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:51:51 UTC] PHP Warning:  require_once(functions.php): failed to open stream: No such file or directory in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 4
+[09-May-2018 19:51:51 UTC] PHP Stack trace:
+[09-May-2018 19:51:51 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[09-May-2018 19:51:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'functions.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/yashgupt/public_html/PasswordReset/forgotPassword.php on line 4
+[09-May-2018 19:51:51 UTC] PHP Stack trace:
+[09-May-2018 19:51:51 UTC] PHP   1. {main}() /home/yashgupt/public_html/PasswordReset/forgotPassword.php:0
+[10-May-2018 07:37:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:37:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:37:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:42:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:42:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:43:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:43:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:43:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 42
+[10-May-2018 07:44:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/makerites/public_html/Student_Admin/PasswordReset/test.php on line 43

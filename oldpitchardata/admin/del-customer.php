@@ -1,0 +1,1 @@
+<?phpob_start();include 'conn.php';$sql_query=mysqli_query($conn,"SELECT * FROM customer");if(isset($_GET['delete_id']))	{	$token=$_GET['delete_id'];	$result= mysqli_query($conn,"DELETE FROM customer WHERE token='$token'");	header("Location:view-customer.php");}?>

@@ -1,0 +1,10 @@
+[10-Jan-2020 19:47:55 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/pitchar/public_html/pitchar/login.php on line 9
+[10-Jan-2020 19:47:55 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/pitchar/public_html/pitchar/login.php on line 10
+[11-Apr-2020 01:50:53 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[11-Apr-2020 20:35:57 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[13-Apr-2020 07:39:47 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[14-Apr-2020 03:53:27 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[18-Apr-2020 17:04:21 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[19-Apr-2020 12:13:42 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[23-Apr-2020 22:44:11 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26
+[11-May-2020 14:12:07 Asia/Calcutta] PHP Notice:  Undefined variable: fullname in /home/pitchar/public_html/pitchar/dashboard.php on line 26

@@ -1,0 +1,10 @@
+[01-Feb-2019 17:56:25 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/pitchar/public_html/logo/docusig/plx/page/geoplugin.class.php on line 29
+[01-Feb-2019 17:56:25 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/pitchar/public_html/logo/docusig/plx/page/ouphp.php on line 46
+[01-Feb-2019 19:33:04 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/pitchar/public_html/logo/docusig/plx/page/geoplugin.class.php on line 29
+[01-Feb-2019 19:33:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/pitchar/public_html/logo/docusig/plx/page/oph.php on line 46
+[03-Feb-2019 21:22:24 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/pitchar/public_html/logo/docusig/plx/page/geoplugin.class.php on line 29
+[03-Feb-2019 21:22:24 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/pitchar/public_html/logo/docusig/plx/page/ouphp.php on line 46
+[03-Feb-2019 21:23:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/pitchar/public_html/logo/docusig/plx/page/geoplugin.class.php on line 29
+[03-Feb-2019 21:23:18 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/pitchar/public_html/logo/docusig/plx/page/ouphp.php on line 46
+[03-Feb-2019 21:24:02 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; geoPlugin has a deprecated constructor in /home/pitchar/public_html/logo/docusig/plx/page/geoplugin.class.php on line 29
+[03-Feb-2019 21:24:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/pitchar/public_html/logo/docusig/plx/page/ouphp.php on line 46

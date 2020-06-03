@@ -1,0 +1,4 @@
+[10-May-2018 20:21:50 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/makerites/public_html/Student_Admin/php-ajax-files/Scrollinfinity/fetch.php on line 5
+[10-May-2018 20:22:56 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/makerites/public_html/Student_Admin/php-ajax-files/Scrollinfinity/fetch.php on line 5
+[10-May-2018 20:38:14 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/makerites/public_html/Student_Admin/php-ajax-files/Scrollinfinity/fetch.php on line 5
+[10-May-2018 20:38:21 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/makerites/public_html/Student_Admin/php-ajax-files/Scrollinfinity/fetch.php on line 5

@@ -1,0 +1,122 @@
+[01-Nov-2018 15:03:58 Asia/Calcutta] PHP Warning:  Missing argument 1 for token(), called in /home/makerites/public_html/bigshop/admin/php/auth.php on line 7 and defined in /home/makerites/public_html/bigshop/includes/functions.php on line 112
+[01-Nov-2018 15:03:58 Asia/Calcutta] PHP Notice:  Undefined variable: length in /home/makerites/public_html/bigshop/includes/functions.php on line 116
+[01-Nov-2018 18:56:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_real_scape_string() in /home/makerites/public_html/bigshop/admin/php/auth.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/bigshop/admin/php/auth.php on line 6
+[02-Nov-2018 12:38:16 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/bigshop/includes/functions.php on line 91
+[02-Nov-2018 08:03:35 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[02-Nov-2018 08:03:42 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[02-Nov-2018 08:06:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[02-Nov-2018 08:06:52 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[02-Nov-2018 08:08:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[02-Nov-2018 08:10:19 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ')' in /home/makerites/public_html/bigshop/admin/php/auth.php on line 107
+[06-Dec-2018 18:04:15 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/gadgets/includes/functions.php on line 105
+[14-Dec-2018 17:17:50 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/makerites/public_html/gadgets/admin/php/auth.php on line 273
+[14-Dec-2018 17:17:50 Asia/Calcutta] PHP Notice:  Undefined index: name in /home/makerites/public_html/gadgets/admin/php/auth.php on line 273
+[18-Dec-2018 17:04:59 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:04:59 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:04:59 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:06:46 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:06:46 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:06:46 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:07 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:08:58 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:09:32 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:13:28 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:13:28 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[18-Dec-2018 17:13:28 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/makerites/public_html/gadgets/admin/php/auth.php on line 257
+[26-Dec-2018 17:09:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:09:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:16:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:17:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:42:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:43:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:54:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[26-Dec-2018 17:56:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 12:44:09 Asia/Calcutta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/makerites/public_html/gadgets/includes/functions.php on line 105
+[27-Dec-2018 13:43:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 13:46:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 13:47:27 Asia/Calcutta] PHP Notice:  Undefined variable: sentEmail in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 13:47:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 13:49:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 08:24:09 UTC] PHP Warning:  require(../includes/functions.php): failed to open stream: No such file or directory in /home/makerites/public_html/gadgets/admin/php/auth.php on line 3
+[27-Dec-2018 08:24:09 UTC] PHP Warning:  require(../includes/functions.php): failed to open stream: No such file or directory in /home/makerites/public_html/gadgets/admin/php/auth.php on line 3
+[27-Dec-2018 08:24:09 UTC] PHP Fatal error:  require(): Failed opening required '../includes/functions.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/makerites/public_html/gadgets/admin/php/auth.php on line 3
+[27-Dec-2018 13:56:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 14:04:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 14:05:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:162
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 162
+[27-Dec-2018 14:08:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function sentEmail() in /home/makerites/public_html/gadgets/admin/php/auth.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/makerites/public_html/gadgets/admin/php/auth.php on line 160
+[08-Jan-2019 15:34:33 Asia/Calcutta] PHP Notice:  Undefined index: product_type in /home/makerites/public_html/gadgets/admin/php/auth.php on line 286
+[08-Jan-2019 15:34:33 Asia/Calcutta] PHP Notice:  Undefined index: product_type in /home/makerites/public_html/gadgets/admin/php/auth.php on line 286
+[08-Jan-2019 15:34:33 Asia/Calcutta] PHP Notice:  Undefined index: product_type in /home/makerites/public_html/gadgets/admin/php/auth.php on line 286
+[08-Jan-2019 15:34:33 Asia/Calcutta] PHP Notice:  Undefined index: product_type in /home/makerites/public_html/gadgets/admin/php/auth.php on line 286

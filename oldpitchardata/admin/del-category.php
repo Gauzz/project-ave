@@ -1,0 +1,1 @@
+<?phpob_start();include 'conn.php';$sql_query=mysqli_query($conn,"SELECT * FROM category");if(isset($_GET['delete_id'])){	$result= mysqli_query($conn,"DELETE FROM category WHERE token=".$_GET['delete_id']);	header("Location:view-category.php");}?>
