@@ -25,13 +25,15 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->     
+    <!-- <section class="fxt-template-animation fxt-template-layout7 has-animation" data-bg-image="img/figure/bg7-l.png"> -->
     <section class="fxt-template-animation fxt-template-layout7 has-animation" data-bg-image="img/figure/bg7-l.png">
         <div class="container">
             <div class="row align-items-center justify-content-center">
                 <div class="col-xl-6 col-lg-7 col-sm-12 col-12 fxt-bg-color">
                     <div class="fxt-content">
                         <div class="fxt-header">
-                            <a href="login-7.html" class="fxt-logo"><img src="../img1/logo2.png" alt="Logo" style="margin: 0px 0px 0px 100px;"></a>                        
+                            <!-- <a href="login.php" class="fxt-logo"><img src="../assets/img/logo/logo-1.svg" alt="Logo" ></a>                         -->
+                            <a href="loginLogin.php" class="fxt-logo">Pitchar</a>                        
                             <p>Recover your password</p>
                         </div>                            
                         <div class="fxt-form"> 

@@ -90,9 +90,9 @@ returnJson(0,"Please Enter All Details!");
                 <div class="col-xl-6 col-lg-7 col-sm-12 col-12 fxt-bg-color">
                     <div class="fxt-content">
                         <div class="fxt-header">
-                            <a href="login-7.html" class="fxt-logo">pitchar</a> 
+                            <a href="login.php" class="fxt-logo">Pitchar</a> 
                             <!--<img src="img/logo-7.png" alt="Logo">-->
-                            <p>Register for create an account</p>
+                            <p>Register to create an account</p>
                         </div>                            
                         <div class="fxt-form"> 
                             <form method="POST" id="signup">
@@ -108,7 +108,7 @@ returnJson(0,"Please Enter All Details!");
                                 </div>
                                 <div class="form-group">  
                                     <div class="fxt-transformY-50 fxt-transition-delay-2">                                              
-                                        <input id="password" type="password" class="form-control" name="password" placeholder="********" required="required">
+                                        <input id="password" type="password" class="form-control" name="password" placeholder="Password" required="required">
                                         <i toggle="#password" class="fa fa-fw fa-eye toggle-password field-icon"></i>
                                     </div>
                                 </div>
@@ -125,14 +125,14 @@ returnJson(0,"Please Enter All Details!");
                                 <div class="form-group">
                                     <div class="fxt-transformY-50 fxt-transition-delay-4">  
                                          <input type="hidden" name="register_big" value="true">
-                                        <button type="submit" class="fxt-btn-fill btnSubmit">Log in</button>
+                                        <button type="submit" class="fxt-btn-fill btnSubmit">Register</button>
                                     </div>
                                 </div>
                             </form>                
                         </div> 
                         <div class="fxt-style-line"> 
                             <div class="fxt-transformY-50 fxt-transition-delay-5">                                
-                                <h3>Or Login With</h3> 
+                                <h3>Or Register With</h3> 
                             </div>
                         </div>
                         <ul class="fxt-socials">
@@ -152,7 +152,7 @@ returnJson(0,"Please Enter All Details!");
                         </ul>
                         <div class="fxt-footer">
                             <div class="fxt-transformY-50 fxt-transition-delay-9">  
-                                <p>Already have an account?<a href="login.php" class="switcher-text2">Sing Up</a></p>
+                                <p>Already have an account?<a href="login.php" class="switcher-text2">Sign In</a></p>
                             </div> 
                         </div> 
                     </div>

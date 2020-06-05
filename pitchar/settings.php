@@ -1,3 +1,8 @@
+<?php
+ob_start();
+// connection to database
+include('../includes/functions.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,7 +22,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-            <h2 class="mt-4">Settings <div class="float-right text-secondary font16"><img class="border border-info rounded-circle p-1 ml-2" height="40" src="https://punchthrough.com/wp-content/uploads/2019/07/Anonymous-Testimonial.png"> Mahi Tripathi</div></h2>
+            <h2 class="mt-4">Settings <div class="float-right text-secondary font16"><img class="border border-info rounded-circle p-1 ml-2" height="40" src="https://punchthrough.com/wp-content/uploads/2019/07/Anonymous-Testimonial.png"> <?php echo $fullname?></div></h2>
           </div>
         </div>
       </div>
@@ -31,11 +36,11 @@
                 <form action="/action_page.php">
                   <div class="form-group">
                     <label for="name">Name:</label>
-                    <input type="text" class="form-control" id="name" placeholder="Enter name" name="email">
+                    <input type="text" class="form-control" id="name" placeholder="Enter name" name="fullname" value="<?php echo $fullname?>">
                   </div>
                   <div class="form-group">
                     <label for="username">Username:</label>
-                    <input type="text" class="form-control" id="username" placeholder="Enter email" name="email">
+                    <input type="text" class="form-control" id="username" placeholder="Enter email" name="email" autocomplete="off">
                   </div>
                   <div class="form-group">
                     <label for="uploadPhoto">Avatar:</label><br>
@@ -44,7 +49,7 @@
                   </div>
                   <div class="form-group">
                     <label for="email">Email:</label>
-                    <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+                    <input type="email" class="form-control" id="email" placeholder="Enter email" name="email" disabled value="<?php echo $email?>">
                   </div>
                   <div class="form-group">
                     <label for="pwd">Password:</label><br>

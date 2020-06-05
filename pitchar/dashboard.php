@@ -23,7 +23,7 @@ include('../includes/functions.php');
       <div class="container">
         <div class="row">
           <div class="col-sm-12">
-           <a href="settings.html"> <h2 class="mt-4">Dashboard <div class="float-right text-secondary font16"><img class="border border-info rounded-circle p-1 ml-2" height="40" src="https://punchthrough.com/wp-content/uploads/2019/07/Anonymous-Testimonial.png"> <?php echo $fullname;?></div></h2></a>
+           <a href="settings.php"> <h2 class="mt-4">Dashboard <div class="float-right text-secondary font16"><img class="border border-info rounded-circle p-1 ml-2" height="40" src="https://punchthrough.com/wp-content/uploads/2019/07/Anonymous-Testimonial.png"> <?php echo $fullname;?></div></h2></a>
           <a href="logout.php" style="float: right;">Logout</a>
           </div>
         </div>
