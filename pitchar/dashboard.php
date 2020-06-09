@@ -2,6 +2,10 @@
 ob_start();
 // connection to database
 include('../includes/functions.php');
+if(!array_key_exists("user",$_SESSION))
+{
+    header("location:../user/login.php");
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
