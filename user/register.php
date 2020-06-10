@@ -20,6 +20,7 @@ $data=[
 'email' => $email,
 'password'  => $hash,
 'token' => token(12),
+'user_type' => 'manual'
 ];
 $query=saveData("tbl_users",$data);
 if ($query) {

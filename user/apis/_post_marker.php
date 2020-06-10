@@ -21,6 +21,22 @@ if (!empty($_REQUEST["submit"]) AND !empty($_REQUEST["authtoken"])) {
             }
         }
     }
+    if(!empty($_FILES["patt"])){
+        $valid_formats = array("patt");
+        $patt = $_FILES["patt"]["name"];
+        $patt_size = $_FILES["patt"]["size"];
+        if(strlen($patt)){
+            list($name,$ext) = explode(".", $patt);
+            if(in_array($ext,$valid_formats)){
+                if ($patt_size<(10240*10240)) {
+                    $patt_name = time().".".$ext;
+                    $tmp = $_FILES["patt"]["tmp_name"];
+                    move_uploaded_file($tmp, "../uploads/pattern/".$patt_name);
+                    $getPatt = 'http://localhost/user/uploads/pattern/'.$patt_name;
+                }
+            }
+        }
+    }
     
     $projectName = (isset($_REQUEST["name"])) ? $_REQUEST["name"]:'';
     $tags = (isset($_REQUEST["tags"])) ? $_REQUEST["tags"]:'';    
@@ -28,7 +44,7 @@ if (!empty($_REQUEST["submit"]) AND !empty($_REQUEST["authtoken"])) {
     $experienceid= (isset($_REQUEST["experienceid"])) ? $_REQUEST["experienceid"]:'';
    
     // Create Post Marker
-    $querymarker=mysqli_query($conn,"INSERT INTO post_marker(authtoken,marker,name,tags,description,experienceid)VALUES('$token','$getMarker','$projectName','$tags','$description','$experienceid')");
+    $querymarker=mysqli_query($conn,"INSERT INTO post_marker(authtoken,marker,linkpatt,name,tags,description,experienceid)VALUES('$token','$getMarker','$getPatt','$projectName','$tags','$description','$experienceid')");
     if (!empty($querymarker)) {
         $getMark =  mysqli_query($conn,"SELECT * FROM post_marker WHERE authtoken='$token' ORDER BY id DESC");
         $markerData = mysqli_fetch_assoc($getMark);
